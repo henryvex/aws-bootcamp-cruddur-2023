@@ -19,4 +19,9 @@ I am excited about the progress I have made so far and am looking forward to con
 
 **Install and Verify AWS CLI**
 
-![CLI Installation](https://user-images.githubusercontent.com/124866629/220412502-1a4337fb-50c3-4c0e-bb93-d4b8ca7b5eca.jpg)![CLI Installation](https://user-images.githubusercontent.com/124866629/220412650-cca56e5f-c77f-45cd-9f00-2ffbb95cd817.jpg)
+![CLI Installation](https://user-images.githubusercontent.com/124866629/220412502-1a4337fb-50c3-4c0e-bb93-d4b8ca7b5eca.jpg)
+
+**Recreate Logical Architectural Deisgn**
+
+![Lucid Architecture Diagram](https://user-images.githubusercontent.com/124866629/220413804-a1dfd6d0-b64f-4bdd-80e2-10a64e5df081.jpg)
+
