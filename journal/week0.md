@@ -16,3 +16,7 @@ Updates of my progress in the ongoing AWS Cloud Project Bootcamp. Here is a summ
 8.	Created a Budget: I also created a budget in AWS to help me manage my AWS costs and avoid unexpected charges.
 
 I am excited about the progress I have made so far and am looking forward to continuing to build on this foundation throughout the bootcamp. Thank you for your guidance and support thus far.
+
+**Install and Verify AWS CLI**
+
+![CLI Installation](https://user-images.githubusercontent.com/124866629/220412502-1a4337fb-50c3-4c0e-bb93-d4b8ca7b5eca.jpg)![CLI Installation](https://user-images.githubusercontent.com/124866629/220412650-cca56e5f-c77f-45cd-9f00-2ffbb95cd817.jpg)
