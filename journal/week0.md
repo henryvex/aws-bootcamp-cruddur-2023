@@ -19,6 +19,9 @@ I am excited about the progress I have made so far and am looking forward to con
 
 **Install and Verify AWS CLI**
 
+![image](https://user-images.githubusercontent.com/124866629/221758982-1ca9e7b7-7ad1-4557-8eca-8771a8b65f10.png)
+
+
 ![image](https://user-images.githubusercontent.com/124866629/221758627-5e0d0651-1298-46d7-94f5-b007942888fc.png)
 
 
